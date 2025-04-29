@@ -22,8 +22,7 @@ This project is a prototype for a low-cost prosthetic hand designed to assist in
 ## Installation
 1. Clone the repository:
      ```bash
-     git clone https://github.com/your-username/prosthetic-hand.git
-     cd prosthetic-hand
+     git clone https://github.com/YuvaKrishnaS/prosthetic_main.git
      ```
 2. Install Python dependencies:
      ```bash
